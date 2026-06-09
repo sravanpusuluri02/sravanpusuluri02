@@ -1,17 +1,17 @@
 # Hi, I'm Sravan Pusuluri 👋
 
-### 🎓 MS Information Science @ University at Albany, SUNY
+### 🎓 MS Data Analytics @ University at Albany, SUNY
 ### 📍 Albany, New York
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Machine Learning enthusiast** currently pursuing my Master's in Information Science. I love building end-to-end ML projects - from cleaning raw data all the way to deploying live web applications.
+I'm a passionate **Machine Learning enthusiast** with a Master's in Information Science. I love building end-to-end ML projects - from cleaning raw data all the way to deploying live web applications.
 
 - 🔭 Currently working on ML and data science projects
 - 🌱 Learning Python, Machine Learning, and Deep Learning
-- 🚀 I build things and deploy them — not just notebooks
+- 🚀 I build things and deploy them - not just notebooks
 - 💡 Interested in ML, AI, and data-driven decision making
 - 📫 Reach me at: sravanpusuluri03@gmail.com
 
@@ -36,7 +36,7 @@ I'm a passionate **Machine Learning enthusiast** currently pursuing my Master's 
 ### 🛒 Customer Churn Prediction Web Application
 > Predicts whether an e-commerce customer will churn or stay using Machine Learning
 
-- 🤖 Trained and compared 4 ML models — best model: **Random Forest (98.31% accuracy)**
+- 🤖 Trained and compared 4 ML models -ß best model: **Random Forest (98.31% accuracy)**
 - 📊 Full EDA with ydata-profiling and custom visualizations
 - 🌐 Deployed live as a web app using Flask and Render
 - 🔗 **[Live App](https://customer-churn-prediction-anxp.onrender.com)** | **[GitHub Repo](https://github.com/sravanpusuluri02/Customer_Churn_Prediction)** | **[EDA Report](https://htmlpreview.github.io/?https://github.com/sravanpusuluri02/Customer_Churn_Prediction/blob/main/churn_report.html)**
