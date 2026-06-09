@@ -7,13 +7,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Machine Learning enthusiast** currently pursuing my Master's in Information Science. I love building end-to-end ML projects — from cleaning raw data all the way to deploying live web applications.
+I'm a passionate **Machine Learning enthusiast** currently pursuing my Master's in Information Science. I love building end-to-end ML projects - from cleaning raw data all the way to deploying live web applications.
 
 - 🔭 Currently working on ML and data science projects
 - 🌱 Learning Python, Machine Learning, and Deep Learning
 - 🚀 I build things and deploy them — not just notebooks
 - 💡 Interested in ML, AI, and data-driven decision making
-- 📫 Reach me at: sravanpusuluri8@gmail.com
+- 📫 Reach me at: sravanpusuluri03@gmail.com
 
 ---
 
@@ -53,6 +53,6 @@ I'm a passionate **Machine Learning enthusiast** currently pursuing my Master's 
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sravanpusuluri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravan-pusuluri/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravanpusuluri8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sravanpusuluri02)
